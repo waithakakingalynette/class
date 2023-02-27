@@ -1,0 +1,9 @@
+body{
+    background-color: lightslategrey;
+    font-size: larger;
+}
+.table{
+    border: 3px;
+        border-style: solid;
+        border-spacing: 5px;
+}

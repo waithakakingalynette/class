@@ -1,0 +1,10 @@
+body{
+    background-color: rgb(83, 120, 120);
+    background-repeat: no-repeat;
+    text-align: center;
+    font-size: larger;
+}
+#image{
+    float: right;
+    height: 750px;
+}
